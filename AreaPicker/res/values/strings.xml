@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Area Picker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="click2choose">点击选择</string>
+    <string name="pls_choose">请选择城市</string>
+    <string name="confirm">确定</string>
+
+</resources>
